@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AnxZT4ppIZ8VEWEXhOZXuH1igjjbhzy6M12ctV7B9g4=",
+  "Source": "BlobStorage",
+  "BasePath": "_content/BlobStorage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
